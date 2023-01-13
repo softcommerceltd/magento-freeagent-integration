@@ -1,0 +1,30 @@
+{
+    "name": "softcommerce/magento-freeagent-integration",
+    "description": "Metapackage for Magento - FreeAgent integration.",
+    "type": "metapackage",
+    "license": "EULA",
+    "require": {
+        "softcommerce/module-core": "1.3.1",
+        "softcommerce/module-freeagent-client": "1.0.2",
+        "softcommerce/module-freeagent-contact": "1.0.2",
+        "softcommerce/module-freeagent-contact-profile": "1.0.2",
+        "softcommerce/module-freeagent-contact-profile-schedule": "1.0.1",
+        "softcommerce/module-freeagent-contact-rest-api": "1.0.1",
+        "softcommerce/module-freeagent-creditmemo": "1.0.2",
+        "softcommerce/module-freeagent-creditmemo-profile": "1.0.2",
+        "softcommerce/module-freeagent-creditmemo-profile-schedule": "1.0.1",
+        "softcommerce/module-freeagent-creditmemo-rest-api": "1.0.2",
+        "softcommerce/module-freeagent-invoice": "1.0.2",
+        "softcommerce/module-freeagent-invoice-profile": "1.0.3",
+        "softcommerce/module-freeagent-invoice-profile-schedule": "1.0.1",
+        "softcommerce/module-freeagent-invoice-rest-api": "1.0.1",
+        "softcommerce/module-freeagent-profile": "1.0.2",
+        "softcommerce/module-freeagent-rest-api": "1.0.2",
+        "softcommerce/module-profile": "1.3.0",
+        "softcommerce/module-profile-config": "1.2.6",
+        "softcommerce/module-profile-history": "1.2.5",
+        "softcommerce/module-profile-queue": "1.0.5",
+        "softcommerce/module-profile-schedule": "1.3.0"
+    },
+    "version": "1.0.4"
+}
