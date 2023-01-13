@@ -1,5 +1,5 @@
 {
-    "name": "softcommerce/magento-freeagent-integration",
+    "name": "softcommerce/magento2-freeagent-integration",
     "description": "Metapackage for Magento - FreeAgent integration.",
     "type": "metapackage",
     "license": "EULA",
