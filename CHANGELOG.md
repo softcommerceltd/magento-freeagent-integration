@@ -1,7 +1,10 @@
 ## Changelog
 
+### Version 1.0.4
+- **Enhancement**: Applied additional submission event: "order" to enable submission of invoices based on order entity.
+
 ### Version 1.0.3
-- **Compatibility**: Compatibility with Magento [CE/EE/ECE] 2.4.5 and PHP 8.
+- **Compatibility**: Compatibility with PHP 8.1.
 
 ### Version 1.0.2
 - **Compatibility**: Compatibility with Magento [CE/EE/ECE] 2.4.4 and PHP 8.
