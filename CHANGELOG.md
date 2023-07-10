@@ -263,6 +263,9 @@
 
 # Package: softcommerce/module-freeagent-rest-api
 
+### Version 1.0.4
+- **Compatibility**: Compatibility with Magento [CE/EE/ECE] 2.4.6-p1 and PHP 8.2.0
+
 ### Version 1.0.3
 - **Compatibility**: Compatibility with Magento [CE/EE/ECE] 2.4.6 and PHP 8.2.0
 
