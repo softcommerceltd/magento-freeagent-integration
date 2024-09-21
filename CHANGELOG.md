@@ -1,5 +1,22 @@
 ## Changelog
 
+# Mage2Fa [1.1.1] 21 Sep 2024
+
+### softcommerce/module-core [1.5.4]
+- **Fix**: Cannot use "String" in namespace as it is reserved since PHP 7 [#13]
+
+### softcommerce/module-freeagent-contact-profile [1.1.1]
+- **Compatibility**: Introduced compatibility with `softcommerce/module-profile` [#2]
+
+### softcommerce/module-freeagent-creditmemo-profile [1.1.1]
+- **Compatibility**: Introduced compatibility with `softcommerce/module-profile` [#2]
+
+### softcommerce/module-freeagent-invoice-profile [1.1.1]
+- **Compatibility**: Introduced compatibility with `softcommerce/module-profile` [#2]
+
+### softcommerce/module-freeagent-profile [1.1.1]
+- **Compatibility**: Introduced compatibility with `softcommerce/module-profile` [#2]
+
 # Mage2Fa [1.1.0] 21 Sep 2024
 
 ### softcommerce/module-core [1.5.3]
