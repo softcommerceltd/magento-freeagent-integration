@@ -1,5 +1,71 @@
 ## Changelog
 
+# Mage2Fa [1.1.0] 21 Sep 2024
+
+### softcommerce/module-core [1.5.3]
+- **Enhancement**: Introduce tooltip renderer for UI columns [#12]
+- **Enhancement**: Introduce flattening array interface [#11]
+
+### softcommerce/module-freeagent-client [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-contact [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-contact-profile [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-contact-profile-schedule [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-contact-rest-api [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-creditmemo [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-creditmemo-profile [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-creditmemo-profile-schedule [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-creditmemo-rest-api [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-invoice [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-invoice-profile [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-invoice-profile-schedule [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-invoice-rest-api [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-profile [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-freeagent-rest-api [1.1.0]
+- **Compatibility**: Introduced compatibility for Magento 2.4.7 [#1]
+
+### softcommerce/module-profile [1.4.1]
+- **Enhancement**: Preserve an array key for context services in `SoftCommerce\Profile\Model\ServiceAbstract\Service::initServices` [#4]
+
+### softcommerce/module-profile-config [1.2.12]
+- **Compatibility**: Introduce support for Magento 2.4.7 [#4]
+
+### softcommerce/module-profile-history [1.2.8]
+- **Compatibility**: Introduced support for PHP 8.3
+
+### softcommerce/module-profile-queue [1.1.1]
+- **Compatibility**: Introduced support for PHP 8.3
+
+### softcommerce/module-profile-schedule [1.3.6]
+- **Compatibility**: Introduced support for PHP 8.3
+
 # Package: softcommerce/module-core
 
 ### Version 1.3.6
@@ -461,4 +527,3 @@
 
 ### Version 1.0.0
 - **Feature**: [SCP-4] New schedule module used to handle profile schedules.
-

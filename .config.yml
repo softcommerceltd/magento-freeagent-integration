@@ -1,0 +1,22 @@
+packages:
+  - softcommerce/module-core
+  - softcommerce/module-freeagent-client
+  - softcommerce/module-freeagent-contact
+  - softcommerce/module-freeagent-contact-profile
+  - softcommerce/module-freeagent-contact-profile-schedule
+  - softcommerce/module-freeagent-contact-rest-api
+  - softcommerce/module-freeagent-creditmemo
+  - softcommerce/module-freeagent-creditmemo-profile
+  - softcommerce/module-freeagent-creditmemo-profile-schedule
+  - softcommerce/module-freeagent-creditmemo-rest-api
+  - softcommerce/module-freeagent-invoice
+  - softcommerce/module-freeagent-invoice-profile
+  - softcommerce/module-freeagent-invoice-profile-schedule
+  - softcommerce/module-freeagent-invoice-rest-api
+  - softcommerce/module-freeagent-profile
+  - softcommerce/module-freeagent-rest-api
+  - softcommerce/module-profile
+  - softcommerce/module-profile-config
+  - softcommerce/module-profile-history
+  - softcommerce/module-profile-queue
+  - softcommerce/module-profile-schedule
